@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : F:\MyWork\github\HEIM\PCB\PCB_4th_4G\4th_4G.PcbDoc
+Date         : 2023/7/30
+Time         : 11:29:26
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 128
+    Connections routed, 128
+    Connections remaining, 0
+count : 4
