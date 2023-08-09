@@ -1,0 +1,45 @@
+Added Component: Designator=U2(EC800E-CN)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=PWRKEY Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=USIM_DATA Pin=U2-11
+Added Pin To Net: NetName=USIM_RST Pin=U2-12
+Added Pin To Net: NetName=USIM_CLK Pin=U2-13
+Added Pin To Net: NetName=USIM_VDD Pin=U2-14
+Added Pin To Net: NetName=RESET_EN Pin=U2-15
+Added Pin To Net: NetName=NET_STATUS Pin=U2-16
+Added Pin To Net: NetName=RXD Pin=U2-17
+Added Pin To Net: NetName=TXD Pin=U2-18
+Added Pin To Net: NetName=VDD_EXT Pin=U2-24
+Added Pin To Net: NetName=STATUS Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U2-27
+Added Pin To Net: NetName=GND Pin=U2-34
+Added Pin To Net: NetName=ANT_MAIN Pin=U2-35
+Added Pin To Net: NetName=GND Pin=U2-36
+Added Pin To Net: NetName=GND Pin=U2-37
+Added Pin To Net: NetName=GND Pin=U2-40
+Added Pin To Net: NetName=GND Pin=U2-41
+Added Pin To Net: NetName=VBAT_BB Pin=U2-42
+Added Pin To Net: NetName=VBAT_BB Pin=U2-43
+Added Pin To Net: NetName=GND Pin=U2-45
+Added Pin To Net: NetName=GND Pin=U2-46
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=GND Pin=U2-48
+Added Pin To Net: NetName=USB_DP Pin=U2-59
+Added Pin To Net: NetName=USB_DM Pin=U2-60
+Added Pin To Net: NetName=GND Pin=U2-70
+Added Pin To Net: NetName=GND Pin=U2-71
+Added Pin To Net: NetName=GND Pin=U2-72
+Added Pin To Net: NetName=GND Pin=U2-73
+Added Pin To Net: NetName=USIM_DET Pin=U2-79
+Added Pin To Net: NetName=USB_BOOT Pin=U2-82
+Added Pin To Net: NetName=GND Pin=U2-88
+Added Pin To Net: NetName=GND Pin=U2-89
+Added Pin To Net: NetName=GND Pin=U2-90
+Added Pin To Net: NetName=GND Pin=U2-91
+Added Pin To Net: NetName=GND Pin=U2-92
+Added Pin To Net: NetName=GND Pin=U2-93
+Added Pin To Net: NetName=GND Pin=U2-94
+Added Pin To Net: NetName=GND Pin=U2-95
+Added Member To Class: ClassName=4th_4G Member=Component U2 EC800E-CN
+Added Room: Name=4th_4G

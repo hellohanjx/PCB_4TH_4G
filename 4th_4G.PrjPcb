@@ -70,23 +70,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHEHIHYL
 
-[Document3]
-DocumentPath=4G_V4.2_5X4.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DFLHRHJD
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for 4th_4G\Board Information - 4th_4G.html
 DItemRevisionGUID=

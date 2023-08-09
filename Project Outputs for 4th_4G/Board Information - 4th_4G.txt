@@ -1,7 +1,7 @@
 Board Information Report
-Filename     : F:\MyWork\github\HEIM\PCB\PCB_4th_4G\4th_4G.PcbDoc
-Date         : 2023/7/30
-Time         : 11:29:26
+Filename     : D:\My Work\github\PCB_4TH_4G\4th_4G.PcbDoc
+Date         : 2023/8/9
+Time         : 17:11:43
 Time Elapsed : 00:00:00
 
 Routing Information
